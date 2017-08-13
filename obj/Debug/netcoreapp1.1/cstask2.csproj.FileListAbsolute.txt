@@ -1,0 +1,8 @@
+C:\Users\9978212\desktop\cstask2\bin\Debug\netcoreapp1.1\cstask2.deps.json
+C:\Users\9978212\desktop\cstask2\bin\Debug\netcoreapp1.1\cstask2.runtimeconfig.json
+C:\Users\9978212\desktop\cstask2\bin\Debug\netcoreapp1.1\cstask2.runtimeconfig.dev.json
+C:\Users\9978212\desktop\cstask2\bin\Debug\netcoreapp1.1\cstask2.dll
+C:\Users\9978212\desktop\cstask2\bin\Debug\netcoreapp1.1\cstask2.pdb
+C:\Users\9978212\desktop\cstask2\obj\Debug\netcoreapp1.1\cstask2.AssemblyInfo.cs
+C:\Users\9978212\desktop\cstask2\obj\Debug\netcoreapp1.1\cstask2.dll
+C:\Users\9978212\desktop\cstask2\obj\Debug\netcoreapp1.1\cstask2.pdb
